@@ -1,0 +1,6 @@
+Suggestions
+
+FORMAT
+User:
+Type: New Vice|New Facts|New Feature|Other
+Description:

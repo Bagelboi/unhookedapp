@@ -1,0 +1,6 @@
+Sugestões
+
+FORMATO
+Usuario:
+Tipo: Novo Vicio|Fatos Novos|Feature Nova|Outro
+Descrição:
