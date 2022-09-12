@@ -2,6 +2,8 @@
   "OSM": {
     "name":"Cigarros",
     
+    "img":"gs://unhookedapp-993aa.appspot.com/smokin.png"
+    
     "type":0,
     
     "desc":"Giving up smoking is the easiest thing in the world. I know because I’ve done it thousands of times.\n-Mark Twain",
