@@ -2,7 +2,7 @@
   "OSM": {
     "name":"Cigarros",
     
-    "img":"gs://unhookedapp-993aa.appspot.com/smokin.png"
+    "img":"imgs/smokin.png"
     
     "type":0,
     
